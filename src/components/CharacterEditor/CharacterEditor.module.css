@@ -7,6 +7,7 @@
 }
 
 .header {
+  width: 65%;
   padding-bottom: 64px;
 }
 
@@ -24,7 +25,12 @@
 }
 
 .characterWrapper {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 35%;
 }
 
 .controlColumn {
+  width: 50%;
 }
